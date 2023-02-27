@@ -13,7 +13,7 @@ module.exports = withPWA({
 
   images: {
     domains: [
-      "api.maktabamasails.com",
+      "api.maktabamasail.com",
     
       "via.placeholder.com",
       "res.cloudinary.com",
